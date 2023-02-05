@@ -8,20 +8,9 @@
     width: 1000px;
 }
 
-.wrap {
-    margin: 0 auto;
-    width: 1000px;
-}
+
 
 .picture {
     width: 300px;
-    <!--height: 200px;-->
-    background-image: url(../Projects/sia.jpg);
-    background-size: 100%;
-}
-.pic {
-    width: 300px;
-    <!--height: 200px;-->
-    background-image: url(../Projects/Fruits.jpg);
     background-size: 100%;
 }
